@@ -15,9 +15,6 @@ The results of the process is located in the [./results/IDM_data](./results/IDM_
 > [!CAUTION]
 > In this revision (commit [0aac97f](https://github.com/kasra-keshavarz/SMM-ABTownship/commit/0aac97f46dd42a3aa5705a21be0021b6cb109650) onward), the **CORRECT** `RDRS_v2.1_A_PR0_SFC` precipitation variable is employed to generate the `IDM` input files.
 
-> [!NOTE]  
-> Prabin Rokaya, Al Pietroniro, Anil Gupta, and Tom Tang have highlighted the issue with the previously reported township data (commit [1f159c8](https://github.com/kasra-keshavarz/SMM-ABTownship/commit/1f159c87834ae10c7aed613a647dae1122686bfa)), whose care and notes are greatly acknowledged.
-
 > [!IMPORTANT]
 > The results generated using the **incorrect** `RDRS_v2.1_P_PR0_SFC` precipitation variable from the `RDRSv2.1` dataset is still archived in this repository under [./results/archive/IDM_data-reforecast-precipitation](./results/archive/IDM_data-reforecast-precipitation) for future reference. The **correct** dataset generated using the appropriate `RDRS_v2.1_A_PR0_SFC` precipitation variable is available for the public under [./results/IDM_data](./results/IDM_data).
 
